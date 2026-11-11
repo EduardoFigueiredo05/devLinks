@@ -1,0 +1,19 @@
+node_modules
+dist
+dist-ssr
+*.local
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+
+# Editor / SO
+.vscode/*
+!.vscode/extensions.json
+!.vscode/mcp.json
+.idea
+.DS_Store
+Thumbs.db
+*.log
